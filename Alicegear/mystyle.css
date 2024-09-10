@@ -8,7 +8,9 @@ body {
 
 nav {
   text-align: center;
-  margin: 20px 0;
+  margin: 20px 10;
+  background-color:tan;
+border-radius: 10px;
 }
 img {
 display:block;
@@ -34,3 +36,36 @@ width: 125px;
 height: 25px;
 }
 
+#container {
+padding: 10px;
+}
+
+#banner {
+border-style: solid;
+}
+
+.header1 {
+  font-style: bold;
+  border-style: solid;
+}
+.header2 {
+text-align: center;
+}
+
+.footer1 {
+  border-style:solid;
+}
+hr 
+{
+padding: 10px;
+}
+section {
+  float: left;
+  width: 50%
+}
+
+aside {
+  float:right;
+  width: 50%;
+
+}

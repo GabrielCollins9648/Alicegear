@@ -6,3 +6,4 @@
   <li><a href="aliceinfopage2.html"> basic set up and how to use</a></li>
   <li><a href="aliceinfopage3.html"> Belt sizing </a></li>
   </ul>
+<p>Authentic read me</p>

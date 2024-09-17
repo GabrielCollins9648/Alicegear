@@ -8,7 +8,8 @@ body {
 img {
   display:block; 
   margin: 0 auto;
-  width: 100%;
+  width: 85%;
+  height: auto;
 }
 
 
@@ -94,4 +95,5 @@ padding: 0;
 .col {
   display: inline-flex;
   flex-direction: column;
+  width: 50%;
 }
